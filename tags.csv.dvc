@@ -1,0 +1,7 @@
+md5: 858f28aa23c75af33bba05dbb97e66b7
+outs:
+- md5: 5d095828cb668ec2fae1e2cf0d99c671
+  path: tags.csv
+  cache: true
+  metric: false
+  persist: false

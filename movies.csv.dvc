@@ -1,0 +1,7 @@
+md5: 5e8130da91b3acdb741579dfd8aea080
+outs:
+- md5: b252328d16b085936b56eefad880ef9d
+  path: movies.csv
+  cache: true
+  metric: false
+  persist: false
