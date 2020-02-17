@@ -1,0 +1,4 @@
+['remote "movielens"']
+url = /Users/kangseokwoo/DVC/DVC_Dataset/MovieLens
+[core]
+remote = movielens
