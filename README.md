@@ -4,12 +4,12 @@
 git과 유사한 형태로 ML 모델이나 사용된 데이터셋을 관리할 수 있는 도구
 
 ## 설치
-    '''shell
+    '''sh
     brew install dvc
     pip install dvc
     '''
 ## Initialize & Add file
-    '''shell
+    '''sh
     git clone https://github.com/pko89403/DVC_Test.git
     cd DVC_Test
     
@@ -23,7 +23,7 @@ git과 유사한 형태로 ML 모델이나 사용된 데이터셋을 관리할 �
     git push 
     '''
 ### .dvc/config
-    '''shell
+    '''sh
     ['remote "movielens"']
     url = /Users/kangseokwoo/DVC/DVC_Dataset/MovieLens
     [core]
